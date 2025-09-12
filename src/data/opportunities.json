@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Innovate Solutions - Chris Miller",
+    "accountName": "Innovate Solutions",
+    "amount": 45000,
+    "stage": "Closed Won",
+    "leadId": 7,
+    "description": "Active customer. Uses the platform daily to track leads and generate reports."
+  },
+  {
+    "id": 2,
+    "name": "Future Systems - Jessica Taylor",
+    "accountName": "Future Systems",
+    "amount": 38000,
+    "stage": "Closed Won",
+    "leadId": 8,
+    "description": "Signed up for the annual premium plan. Provided positive feedback on automation features."
+  },
+  {
+    "id": 3,
+    "name": "CloudNova - Isabella Martinez",
+    "accountName": "CloudNova",
+    "amount": 52000,
+    "stage": "Negotiation",
+    "leadId": 14,
+    "description": "Happy with cloud implementation. Mentioned possible expansion to another business unit."
+  },
+  {
+    "id": 4,
+    "name": "UrbanBuild - Charlotte Turner",
+    "accountName": "UrbanBuild",
+    "amount": 60000,
+    "stage": "Qualification",
+    "leadId": 20,
+    "description": "Implemented solution in construction projects. Reported 30% improvement in efficiency."
+  }
+]

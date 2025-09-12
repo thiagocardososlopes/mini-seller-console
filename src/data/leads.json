@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "company": "Global Tech Inc.",
+    "email": "john.smith@globaltech.com",
+    "source": "Website",
+    "score": 95,
+    "status": "New",
+    "description": "Interested in automation solutions for large teams. Requested an online demo of the main product."
+  },
+  {
+    "id": 2,
+    "name": "Emily White",
+    "company": "Innovate Solutions",
+    "email": "emily.w@innovatesolutions.net",
+    "source": "Referral",
+    "score": 88,
+    "status": "Contacted",
+    "description": "Referred by a strategic partner. Currently evaluating different alternatives before making a decision."
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "company": "Future Systems",
+    "email": "michael.brown@futuresystems.io",
+    "source": "Event",
+    "score": 72,
+    "status": "New",
+    "description": "Met the company at a tech event. Interested in real-time data analytics solutions."
+  },
+  {
+    "id": 4,
+    "name": "Sarah Green",
+    "company": "Creative Co.",
+    "email": "sarah@creative.dev",
+    "source": "Website",
+    "score": 91,
+    "status": "Qualified",
+    "description": "Looking to integrate our tool with the current creative stack. Budget already approved."
+  },
+  {
+    "id": 5,
+    "name": "David Jones",
+    "company": "Data Analytics LLC",
+    "email": "d.jones@dataanalytics.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "Unqualified",
+    "description": "Already has an in-house solution. May reconsider if unique features are offered in the future."
+  },
+  {
+    "id": 6,
+    "name": "Laura Williams",
+    "company": "Global Tech Inc.",
+    "email": "laura.w@globaltech.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "Contacted",
+    "description": "Referred by John Smith. Reviewing potential use for the global sales team."
+  },
+  {
+    "id": 7,
+    "name": "Chris Miller",
+    "company": "Innovate Solutions",
+    "email": "chris.miller@innovatesolutions.net",
+    "source": "Website",
+    "score": 98,
+    "status": "Converted",
+    "description": "Active customer. Uses the platform daily to track leads and generate reports."
+  },
+  {
+    "id": 8,
+    "name": "Jessica Taylor",
+    "company": "Future Systems",
+    "email": "jessica.t@futuresystems.io",
+    "source": "Event",
+    "score": 93,
+    "status": "Converted",
+    "description": "Signed up for the annual premium plan. Provided positive feedback on automation features."
+  },
+  {
+    "id": 9,
+    "name": "Robert King",
+    "company": "NextGen AI",
+    "email": "robert.k@nextgen.ai",
+    "source": "Website",
+    "score": 89,
+    "status": "Qualified",
+    "description": "Looking for AI integration in internal workflows. Interested in scheduling a technical call."
+  },
+  {
+    "id": 10,
+    "name": "Sophia Lopez",
+    "company": "HealthCare Plus",
+    "email": "s.lopez@hcp.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Contacted",
+    "description": "Referred by a healthcare partner. Evaluating compliance with sensitive data regulations."
+  },
+  {
+    "id": 11,
+    "name": "Daniel Carter",
+    "company": "FinTech Global",
+    "email": "daniel.c@fintechglobal.com",
+    "source": "Website",
+    "score": 77,
+    "status": "New",
+    "description": "Researching automation for financial reporting. Still comparing market options."
+  },
+  {
+    "id": 12,
+    "name": "Olivia Brown",
+    "company": "EduTech Labs",
+    "email": "olivia.b@edutechlabs.org",
+    "source": "Event",
+    "score": 83,
+    "status": "Qualified",
+    "description": "Attended our workshop on educational innovation. Interested in a small-scale pilot project."
+  },
+  {
+    "id": 13,
+    "name": "Ethan Wilson",
+    "company": "SmartRetail",
+    "email": "e.wilson@smartretail.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "Unqualified",
+    "description": "No current budget available. Open to re-discussing the solution in six months."
+  },
+  {
+    "id": 14,
+    "name": "Isabella Martinez",
+    "company": "CloudNova",
+    "email": "isabella@cloudnova.com",
+    "source": "Website",
+    "score": 94,
+    "status": "Converted",
+    "description": "Happy with cloud implementation. Mentioned possible expansion to another business unit."
+  },
+  {
+    "id": 15,
+    "name": "James Anderson",
+    "company": "GreenEnergy Corp",
+    "email": "j.anderson@greenenergy.org",
+    "source": "Referral",
+    "score": 90,
+    "status": "Contacted",
+    "description": "Interested in optimizing sustainable processes. Requested similar case studies."
+  },
+  {
+    "id": 16,
+    "name": "Mia Johnson",
+    "company": "TechStart Hub",
+    "email": "mia@techstart.io",
+    "source": "Event",
+    "score": 80,
+    "status": "New",
+    "description": "Met the team at a startup event. Waiting for presentation materials and proposal."
+  },
+  {
+    "id": 17,
+    "name": "William Scott",
+    "company": "SecureNet",
+    "email": "william.s@securenet.com",
+    "source": "Website",
+    "score": 87,
+    "status": "Qualified",
+    "description": "Needs an integrated security solution. Requested a meeting with the technical team."
+  },
+  {
+    "id": 18,
+    "name": "Ava Davis",
+    "company": "MediaWorks",
+    "email": "ava.d@mediaworks.tv",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "Unqualified",
+    "description": "Currently using another vendor. Open to switching if significant cost savings are proven."
+  },
+  {
+    "id": 19,
+    "name": "Benjamin Lee",
+    "company": "AgroFuture",
+    "email": "benjamin.lee@agrofuture.org",
+    "source": "Referral",
+    "score": 86,
+    "status": "Contacted",
+    "description": "Referred by an existing client. Interested in solutions to optimize the agricultural supply chain."
+  },
+  {
+    "id": 20,
+    "name": "Charlotte Turner",
+    "company": "UrbanBuild",
+    "email": "charlotte@urbanbuild.com",
+    "source": "Website",
+    "score": 96,
+    "status": "Converted",
+    "description": "Implemented solution in construction projects. Reported 30% improvement in efficiency."
+  }
+]
