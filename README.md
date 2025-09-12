@@ -2,6 +2,8 @@
 
 A lightweight front-end application built with React, TypeScript, and Tailwind CSS to manage a sales pipeline. This project allows users to view, filter, sort, and edit leads, and then convert them into opportunities. All data is persisted in the browser's local storage, requiring no backend.
 
+Deployed at: https://mini-seller-console-dusky.vercel.app/leads
+
 ### Tech Stack
 
 * React (with Vite)
